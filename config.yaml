@@ -50,7 +50,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Donate"
+    - name: "Projects"
       url: "/#"
       weight: 4
 
@@ -59,7 +59,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Schedule a call"
+    - name: "Donate"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -77,7 +77,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Donate"
+    - name: "Projects"
       url: "/#"
       weight: 4
 
