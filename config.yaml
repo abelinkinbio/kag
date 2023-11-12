@@ -1,17 +1,17 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://www.sawyersev.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "KAG Foundation"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
-  images: 
+  title: "KAG Foundation"
+  description: "Love people, love God, change the world."
+  images:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
@@ -28,14 +28,13 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Jacksonville, Florida"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "donate@kag.com"
+    - "904.583.0123"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Up Business All Rights Reserved"
 
 menus:
   main:
@@ -51,7 +50,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Donate"
       url: "/#"
       weight: 4
 
@@ -60,7 +59,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Schedule a call"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -78,7 +77,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Donate"
       url: "/#"
       weight: 4
 
