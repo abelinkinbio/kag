@@ -1,8 +1,8 @@
 enabled: true
-id: "brands"
+id: "Organizations"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "We work with organizations and communities of ..."
   items:
     - "images/brands-samsumg.png"
     - "images/brands-google.png"

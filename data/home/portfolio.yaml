@@ -4,10 +4,10 @@ id: "portfolio"
 content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    title: "We help provide emotional ..."
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 
@@ -16,10 +16,10 @@ content:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    title: "We help provide physical ... "
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 
@@ -28,10 +28,10 @@ content:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
+    title: "We help provide spiritual"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
+    buttons:
       - label: "See live"
         url: "#"
 
