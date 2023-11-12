@@ -1,6 +1,7 @@
 baseURL: "https://www.sawyersev.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
+CanonifyURLs: "true"
 
 title: "KAG Foundation"
 
